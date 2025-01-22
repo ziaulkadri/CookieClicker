@@ -1,0 +1,28 @@
+.clicker-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.clicker-button {
+  background-color: #4caf50;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.clicker-button:hover {
+  background-color: #45a049;
+}
+
+.stats {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.message {
+  color: #ff5722;
+  margin-top: 10px;
+}
